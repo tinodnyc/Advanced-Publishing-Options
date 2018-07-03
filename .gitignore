@@ -1,0 +1,19 @@
+license.xml
+Sitecore 8.2 rev. 161221(u2).zip
+WebServerConfig.zip
+*.user
+bin/
+obj/
+.vs/
+packages/
+*.Debug.config
+Sitecore 8.2 rev. 160729.zip
+node_modules/
+site.min.css
+site.min-rtl.css
+site.min.js
+ChangedItemFiles.txt
+LastDeploymentGitCommitId.txt
+DeltaDeployCompare.txt
+Report/
+*.orig
